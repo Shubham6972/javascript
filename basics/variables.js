@@ -5,4 +5,3 @@ accountCity = "thane"
 
 //const cannot be changed 
 //accountId = 2
-console.log(accountId);
